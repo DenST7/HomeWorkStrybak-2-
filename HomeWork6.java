@@ -23,14 +23,6 @@ public class HomeWork6 {
             }
         }
         System.out.println(max);
-
-        for (int i = 0; i < 7; i++) {      //хотя, можно было этого и не делать
-            for (int j = 0; j < 4; j++) {
-                if (a[i][j] == max) {
-                    System.out.println(max);
-                }
-            }
-
         }
     }
 }
